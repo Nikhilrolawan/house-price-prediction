@@ -15,7 +15,7 @@ Clone the repository:
 
 <pre>
 
-git clone https://github.com/your-username/house-price-prediction.git
+git clone https://github.com/Nikhilrolawan/house-price-prediction.git
 </pre>
 Navigate to the project directory:
 <pre>
@@ -51,4 +51,5 @@ The project employs machine learning techniques to train a model for predicting 
 Contributions to this project are welcome! If you find any issues or have suggestions for improvements, please submit a pull request or open an issue in the repository. Your feedback is greatly appreciated.
 
 ### License
-This project is licensed under the MIT License. Feel free to modify and use the code for your own purposes.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT)
+. Feel free to modify and use the code for your own purposes.
